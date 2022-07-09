@@ -1,0 +1,39 @@
+h1{
+    color: palevioletred;
+    font-family: Brush Script MT;
+    background-color: skyblue;
+    text-align: center;
+}
+
+h2{
+    color: rebeccapurple;
+    font-family: candara;
+    background-color: rgb(240, 142, 240);
+    text-align: center;
+}
+
+img{
+    image-orientation: flip;
+    border-radius: 40px ;
+    margin: 30px;
+    padding: 10px;
+    
+}
+
+button{
+    text-align: center;
+    color: rgb(62, 47, 158);
+    background-color: rgb(188, 217, 255);
+    border-radius: 10px;
+}
+
+p{
+    color: rebeccapurple;
+    font-family: candara;
+    background-color: skyblue;
+    text-align: center;
+}
+ body{
+     background-color: hsl(61, 81%, 71%);
+ }
+
